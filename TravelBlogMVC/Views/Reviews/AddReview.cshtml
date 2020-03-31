@@ -1,0 +1,21 @@
+@{
+  Layout = "_Layout";
+}
+
+@model TravelBlog.Models.Review
+
+<h2>Add a review</h2>
+
+<h4>Add a review to this destination: @Html.DisplayFor(model => model.Description)</h4>
+
+@using (Html.BeginForm())
+{
+    @Html.HiddenFor(model => model.ReviewId)
+
+    @Html.Label("Select destination")
+    @Html.DropDownList("DestinationId")
+
+    <input type="submit" value="Save" />
+}
+
+<p>@Html.ActionLink("Back to list", "Index")</p>

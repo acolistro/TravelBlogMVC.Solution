@@ -1,0 +1,14 @@
+@{
+  Layout = "_Layout";
+}
+
+@model TravelBlog.Models.Destination
+
+<h4>Add a new Destination</h4>
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(model => model.Location)
+    @Html.TextBoxFor(model => model.Location)
+    <input type="submit" value="Add new destination" />
+}
+<p>@Html.ActionLink("Show all destinations", "Index")</p>

@@ -1,0 +1,20 @@
+@{
+  Layout = "_Layout";
+}
+
+@model TravelBlog.Models.Review
+
+<h2>Review Details</h2>
+<hr />
+<h3>@Html.DisplayNameFor(model => model.Description): @Html.DisplayFor(model => model.Description)</h3>
+
+
+  <h4>Destination the Review belongs to:</h4>
+
+  <p>@Model.DestinationId</p>
+
+
+<p>@Html.ActionLink("Back to list", "Index")</p>
+<p>@Html.ActionLink("Edit Review", "Edit", new { id = Model.ReviewId })</p>
+<p>@Html.ActionLink("Add a Destination", "AddDestination", new { id = Model.ReviewId })</p>
+<p>@Html.ActionLink("Delete Review", "Delete", new { id = Model.ReviewId })</p>

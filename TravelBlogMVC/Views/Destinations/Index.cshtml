@@ -1,0 +1,22 @@
+@{
+  Layout = "_Layout";
+}
+
+@using TravelBlog.Models;
+@model List<TravelBlog.Models.Destination>;
+
+<h1>Destinations</h1>
+
+@if (@Model.Count == 0)
+{
+  <h3>No destinations have been added yet!</h3>
+} 
+
+@foreach (Destination destination in Model)
+{
+  <li>@Html.ActionLink($"{destination.Location}", "Location", new { id = destination.DestinationId })</li>
+}
+
+<p>@Html.ActionLink("Add new destination", "Create")</p>
+
+<p>@Html.ActionLink("Home", "Index", "Home")</p>
