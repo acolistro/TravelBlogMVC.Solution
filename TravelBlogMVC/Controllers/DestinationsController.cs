@@ -2,17 +2,17 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.AspNetCore.Mvc;
-using TravelBlog.Models;
+using TravelBlogMVC.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace TravelBlog.Controllers
+namespace TravelBlogMVC.Controllers
 {
   // [Route("api/[controller]")]
   // [ApiController]
   public class DestinationsController : ControllerBase
   {
-    private TravelBlogContext _db;
-    public DestinationsController(TravelBlogContext db)
+    private TravelBlogMVCContext _db;
+    public DestinationsController(TravelBlogMVCContext db)
     {
       _db = db;
     }

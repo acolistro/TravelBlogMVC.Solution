@@ -1,0 +1,135 @@
+{
+  "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\TravelBlogMVC.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "TravelBlogMVC",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views1\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views1\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views1\\Home\\Privacy.cshtml",
+      "TargetPath": "Views1\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views1\\Home\\Index.cshtml",
+      "TargetPath": "Views1\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Reviews\\Index.cshtml",
+      "TargetPath": "Views\\Reviews\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Account\\Login.cshtml",
+      "TargetPath": "Views\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Destinations\\Edit.cshtml",
+      "TargetPath": "Views\\Destinations\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views1\\Shared\\_CookieConsentPartial.cshtml",
+      "TargetPath": "Views1\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Reviews\\Delete.cshtml",
+      "TargetPath": "Views\\Reviews\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views1\\_ViewImports.cshtml",
+      "TargetPath": "Views1\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views1\\Shared\\Error.cshtml",
+      "TargetPath": "Views1\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views1\\_ViewStart.cshtml",
+      "TargetPath": "Views1\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Destinations\\Delete.cshtml",
+      "TargetPath": "Views\\Destinations\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Destinations\\Details.cshtml",
+      "TargetPath": "Views\\Destinations\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Account\\Register.cshtml",
+      "TargetPath": "Views\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Account\\Index.cshtml",
+      "TargetPath": "Views\\Account\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Reviews\\Edit.cshtml",
+      "TargetPath": "Views\\Reviews\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Destinations\\Index.cshtml",
+      "TargetPath": "Views\\Destinations\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Reviews\\AddReview.cshtml",
+      "TargetPath": "Views\\Reviews\\AddReview.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views1\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views1\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Destinations\\Create.cshtml",
+      "TargetPath": "Views\\Destinations\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ThinkPad\\desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\Views\\Reviews\\Details.cshtml",
+      "TargetPath": "Views\\Reviews\\Details.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}

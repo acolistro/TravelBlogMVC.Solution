@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Todd\\Desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\TravelBlogMVC.csproj": {}
+    "C:\\Users\\ThinkPad\\desktop\\TravelBlogMVC\\TravelBlogMVC\\TravelBlogMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Todd\\Desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\TravelBlogMVC.csproj": {
+    "C:\\Users\\ThinkPad\\desktop\\TravelBlogMVC\\TravelBlogMVC\\TravelBlogMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Todd\\Desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\TravelBlogMVC.csproj",
+        "projectUniqueName": "C:\\Users\\ThinkPad\\desktop\\TravelBlogMVC\\TravelBlogMVC\\TravelBlogMVC.csproj",
         "projectName": "TravelBlogMVC",
-        "projectPath": "C:\\Users\\Todd\\Desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\TravelBlogMVC.csproj",
-        "packagesPath": "C:\\Users\\Todd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Todd\\Desktop\\TravelBlogMVC.Solution\\TravelBlogMVC\\obj\\",
+        "projectPath": "C:\\Users\\ThinkPad\\desktop\\TravelBlogMVC\\TravelBlogMVC\\TravelBlogMVC.csproj",
+        "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ThinkPad\\desktop\\TravelBlogMVC\\TravelBlogMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Todd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"

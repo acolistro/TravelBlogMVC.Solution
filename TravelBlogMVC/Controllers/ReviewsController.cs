@@ -1,18 +1,18 @@
 using Microsoft.AspNetCore.Mvc;
-using TravelBlog.Models;
+using TravelBlogMVC.Models;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System; 
 
-namespace TravelBlog.Controllers
+namespace TravelBlogMVC.Controllers
 {
   public class ReviewsController : Controller
   {
-    private readonly TravelBlogContext _db;
+    private readonly TravelBlogMVCContext _db;
 
-    public ReviewsController(TravelBlogContext db)
+    public ReviewsController(TravelBlogMVCContext db)
     {
       _db = db;
     } 

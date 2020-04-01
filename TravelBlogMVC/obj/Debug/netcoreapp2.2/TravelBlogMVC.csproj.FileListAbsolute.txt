@@ -1,0 +1,6 @@
+C:\Users\ThinkPad\desktop\TravelBlogMVC\TravelBlogMVC\obj\Debug\netcoreapp2.2\TravelBlogMVC.csprojAssemblyReference.cache
+C:\Users\ThinkPad\desktop\TravelBlogMVC\TravelBlogMVC\obj\Debug\netcoreapp2.2\TravelBlogMVC.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\desktop\TravelBlogMVC\TravelBlogMVC\obj\Debug\netcoreapp2.2\TravelBlogMVC.RazorAssemblyInfo.cache
+C:\Users\ThinkPad\desktop\TravelBlogMVC\TravelBlogMVC\obj\Debug\netcoreapp2.2\TravelBlogMVC.RazorAssemblyInfo.cs
+C:\Users\ThinkPad\desktop\TravelBlogMVC\TravelBlogMVC\obj\Debug\netcoreapp2.2\TravelBlogMVC.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\desktop\TravelBlogMVC\TravelBlogMVC\obj\Debug\netcoreapp2.2\TravelBlogMVC.AssemblyInfo.cs

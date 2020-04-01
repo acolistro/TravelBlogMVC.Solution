@@ -1,24 +1,23 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Identity;
-using TravelBlog.Models;
+using TravelBlogMVC.Models;
 using System.Threading.Tasks;
-using TravelBlog.ViewModels;
+using TravelBlogMVC.ViewModels;
 
-namespace TravelBlog.Controllers
+namespace TravelBlogMVC.Controllers
 {
   public class AccountController : Controller
   {
-    private readonly TravelBlogContext _db;
+    private readonly TravelBlogMVCContext _db;
     private readonly UserManager<ApplicationUser> _userManager;
     private readonly SignInManager<ApplicationUser> _signInManager;
 
-    public AccountController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, TravelBlogContext db)
+    public AccountController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager, TravelBlogMVCContext db)
     {
       _userManager = userManager;
       _signInManager = signInManager;
       _db = db;
     }
-
     public ActionResult Index()
     {
       return View();
@@ -28,7 +27,6 @@ namespace TravelBlog.Controllers
     {
       return View();
     }
-
     [HttpPost]
     public async Task<ActionResult> Register(RegisterViewModel model)
     {
@@ -43,12 +41,10 @@ namespace TravelBlog.Controllers
         return View();
       }
     }
-
     public ActionResult Login()
     {
       return View();
     }
-
     [HttpPost]
     public async Task<ActionResult> Login(LoginViewModel model)
     {
@@ -62,7 +58,6 @@ namespace TravelBlog.Controllers
         return View();
       }
     }
-
     [HttpPost]
     public async Task<ActionResult> LogOff()
     {
